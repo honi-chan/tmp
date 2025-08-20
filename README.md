@@ -13,3 +13,15 @@ Next.js については、詳細は以下のリファレンスを参照するこ
 - https://nextjs-ja-translation-docs.vercel.app/?utm_source=chatgpt.com
 - https://github.com/Nextjs-ja-translation/Nextjs-ja-translation-docs?utm_source=chatgpt.com
 - https://qiita.com/masakinihirota/items/99054b9f9cf428881617?utm_source=chatgpt.com
+
+---
+
+ソフトウェアのバージョン
+
+本プロジェクトで使用するソフトウェアのバージョンは以下の通り。  
+その他のソフトウェアに関しては、役割分担上、インフラ担当に割り当たっているため、インフラ担当の成果物にて定義する。
+
+| ソフトウェア  | 種類およびバージョン  | 理由 |
+|---------------|-----------------------|------|
+| node.js   | v24.5.0                 | 現時点の最新バージョンを利用するため。 |
+| Next.js   | 15.4.6                  | 現時点の最新バージョンを利用するため。 |
